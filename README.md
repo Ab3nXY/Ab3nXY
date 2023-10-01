@@ -2,6 +2,8 @@
 
 ![Profile Image](profile_image.jpg)
 
+[![SimplyProgger's Github Stats](https://enigmatic-harbor-42642.herokuapp.com/?name=SimplyProgger)](https://enigmatic-harbor-42642.herokuapp.com/?name=SimplyProgger)
+
 - **Email:** Abenxy0@gmail.com
 - **Phone:** 0942877371
 - **Location:** Addis Ababa, Ethiopia
