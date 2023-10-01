@@ -2,9 +2,8 @@
 
 ![Profile Image](profile_image.jpg)
 
-[![SimplyProgger's Github Stats](https://enigmatic-harbor-42642.herokuapp.com/?name=SimplyProgger)](https://enigmatic-harbor-42642.herokuapp.com/?name=SimplyProgger)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ab3nxy)](https://github.com/anuraghazra/github-readme-stats)
 
-- **Email:** Abenxy0@gmail.com
 - **Phone:** 0942877371
 - **Location:** Addis Ababa, Ethiopia
 
