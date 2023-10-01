@@ -80,5 +80,3 @@ To excel as a web developer, combining my engineering background, technical skil
 - **Email:** Abenxy0@gmail.com
 - **Phone:** 0942877371
 - **Location:** Addis Ababa, Ethiopia
-
-![Ethiopian Flag](ethiopian_flag.jpg)
