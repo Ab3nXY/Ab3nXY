@@ -1,8 +1,5 @@
 # Abenezer Shiferaw
 
-![Profile Image](profile_image.jpg)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ab3nxy)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Location:** Addis Ababa, Ethiopia
 
