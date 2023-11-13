@@ -6,7 +6,7 @@
 
 ## Summary
 
-Motivated professional with a strong passion for web development and a background in civil engineering. Aspiring to pursue a rewarding career in web development, with the ultimate goal of becoming a skilled full-stack developer. Leveraging technical skills gained from education and certification to contribute effectively to web application projects.
+Motivated web developer with a passion for building innovative and user-friendly web applications. Proven ability to leverage technical skills in Django, React.js, Node.js, and Java to develop robust and scalable web applications. Expertise in external APIs, task queuing, containerization, and Docker. Eager to contribute to challenging projects and continue developing expertise in web development, data science, and AI.
 
 ---
 
@@ -38,6 +38,9 @@ Motivated professional with a strong passion for web development and a backgroun
 - Advanced Django: Advanced Django Rest Framework
 - Python for Data Science, AI & Development
 - Developing AI Applications with Python and Flask
+- Advanced Django: External APIs and Task Queuing
+- Introduction to Containers with Docker, Kubernetes & OpenShift
+- Introduction to Java
 
 ---
 
@@ -52,6 +55,13 @@ Motivated professional with a strong passion for web development and a backgroun
 - Problem-solving and analytical skills
 - Data analysis and Python programming
 - AI model development with Python and Flask
+- External APIs
+- Task queuing
+- Containerization
+- Docker
+- Kubernetes
+- OpenShift
+- Java
 
 ---
 
@@ -85,13 +95,20 @@ Motivated professional with a strong passion for web development and a backgroun
 - Developed web applications with Python and Flask, integrating AI services such as IBM Watson.
 - Demonstrated the capability to interact with AI-powered services within web applications.
 
+### 8. Django External APIs and Task Queuing Project
+- Developed a web application that utilizes external APIs and task queuing to perform complex tasks efficiently and asynchronously.
+
+### 9. Introduction to Containers with Docker, Kubernetes & OpenShift Project
+- Built a containerized web application using Docker, Kubernetes, and OpenShift.
+
+### 10. Introduction to Java Project
+- Developed a simple Java application to demonstrate basic programming concepts in Java.
+
 ---
 
 ## Objective
 
-To excel as a web developer, combining my engineering background, technical skills, 
-and passion for coding. Eager to contribute to dynamic projects, enhance user experiences, 
-and continue developing expertise in both front-end and back-end technologies, as well as in data science and AI.
+To excel as a web developer, combining my engineering background, technical skills, and passion for coding. Eager to contribute to dynamic projects, enhance user experiences, and continue developing expertise in both front-end and back-end technologies, as well as in data science, AI, and cloud computing.
 
 ---
 
