@@ -24,23 +24,27 @@ Motivated web developer with a passion for building innovative and user-friendly
 
 ## Certifications
 
-- Advanced Django: Building a Blog
-- Introduction to Cloud Computing
-- Developing Back-End Apps with Node.js and Express
-- Developing Front-End Apps with React
-- Web Application Technologies and Django
-- Building Web Applications in Django
-- Django Features and Libraries
-- Using JavaScript and JSON in Django
-- Getting Started with Git and GitHub
-- Introduction to Web Development with HTML, CSS, JavaScript
-- Advanced Django: Introduction to Django Rest Framework
-- Advanced Django: Advanced Django Rest Framework
-- Python for Data Science, AI & Development
-- Developing AI Applications with Python and Flask
-- Advanced Django: External APIs and Task Queuing
-- Introduction to Containers with Docker, Kubernetes & OpenShift
-- Introduction to Java
+•	Introduction to Cloud Computing
+•	Introduction to Web Development with HTML, CSS, JavaScript
+•	Getting Started with Git and GitHub
+•	Developing Front-End Apps with React
+•	Developing Back-End Apps with Node.js and Express
+•	Python for Data Science, AI & Development
+•	Developing AI Applications with Python and Flask
+•	Django Application Development with SQL and Databases
+•	Introduction to Containers with Docker, Kubernetes & OpenShift
+•	Application Development using Microservices and Serverless 
+•	Full Stack Cloud Development Capstone Project
+•	Web Application Technologies and Django
+•	Building Web Applications in Django
+•	Django Features and Libraries
+•	Using JavaScript and JSON in Django
+•	Advanced Django: Building a Blog
+•	Advanced Django: Introduction to Django Rest Framework
+•	Advanced Django: Advanced Django Rest Framework
+•	Advanced Django: External APIs and Task Queuing
+•	Introduction to Java
+
 
 ---
 
@@ -62,6 +66,11 @@ Motivated web developer with a passion for building innovative and user-friendly
 - Kubernetes
 - OpenShift
 - Java
+- Cloud deployment and management
+- Microservices architecture
+- Serverless computing
+- IBM Code Engine
+
 
 ---
 
@@ -103,6 +112,15 @@ Motivated web developer with a passion for building innovative and user-friendly
 
 ### 10. Introduction to Java Project
 - Developed a simple Java application to demonstrate basic programming concepts in Java.
+
+### 11.  Application Development using Microservices and Serverless
+- Created REST APIs using Python and Flask for microservices development.
+- Created a front-end application composed of several microservices.
+- Deployed the application on the cloud using serverless computing.
+### 12. Full Stack Cloud Development Capstone Project
+- Designed dynamic user experiences, developed frontend pages, implemented user administration, built actions for database operations, created backend services, and configured CI/CD pipelines.
+- Leveraged HTML, CSS, JavaScript, Django, React, Node.js, NoSQL (MongoDB), Containerization, IBM Code Engine, Python, and Kubernetes for a comprehensive solution.
+
 
 ---
 
