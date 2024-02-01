@@ -24,26 +24,26 @@ Motivated web developer with a passion for building innovative and user-friendly
 
 ## Certifications
 
-•	Introduction to Cloud Computing
-•	Introduction to Web Development with HTML, CSS, JavaScript
-•	Getting Started with Git and GitHub
-•	Developing Front-End Apps with React
-•	Developing Back-End Apps with Node.js and Express
-•	Python for Data Science, AI & Development
-•	Developing AI Applications with Python and Flask
-•	Django Application Development with SQL and Databases
-•	Introduction to Containers with Docker, Kubernetes & OpenShift
-•	Application Development using Microservices and Serverless 
-•	Full Stack Cloud Development Capstone Project
-•	Web Application Technologies and Django
-•	Building Web Applications in Django
-•	Django Features and Libraries
-•	Using JavaScript and JSON in Django
-•	Advanced Django: Building a Blog
-•	Advanced Django: Introduction to Django Rest Framework
-•	Advanced Django: Advanced Django Rest Framework
-•	Advanced Django: External APIs and Task Queuing
-•	Introduction to Java
+- Introduction to Cloud Computing
+- Introduction to Web Development with HTML, CSS, JavaScript
+- Getting Started with Git and GitHub
+- Developing Front-End Apps with React
+- Developing Back-End Apps with Node.js and Express
+- Python for Data Science, AI & Development
+- Developing AI Applications with Python and Flask
+- Django Application Development with SQL and Databases
+- Introduction to Containers with Docker, Kubernetes & OpenShift
+- Application Development using Microservices and Serverless
+- Full Stack Cloud Development Capstone Project
+- Web Application Technologies and Django
+- Building Web Applications in Django
+- Django Features and Libraries
+- Using JavaScript and JSON in Django
+- Advanced Django: Building a Blog
+- Advanced Django: Introduction to Django Rest Framework
+- Advanced Django: Advanced Django Rest Framework
+- Advanced Django: External APIs and Task Queuing
+- Introduction to Java
 
 
 ---
