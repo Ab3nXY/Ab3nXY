@@ -47,15 +47,15 @@ Passionate web developer specializing in Django, with a knack for creating innov
 
 ## Skills
 
-**Front-End Development:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS.
-**Back-End Development:** Django.
-**Cloud Computing:** Cloud concepts.
-**Machine Learning:**
+* **Front-End Development:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS.
+* **Back-End Development:** Django.
+* **Cloud Computing:** Cloud concepts.
+* **Machine Learning:**
   * Supervised Machine Learning: Regression and Classification
   * Advanced Learning Algorithms: TensorFlow, decision tree (random forests and XGBoost)
   * Unsupervised Learning: Recommenders, Reinforcement Learning
-**AI Development:** AI model development with Python and Flask.
-**Other Skills:** External APIs, Task queuing, Containerization (Docker), Kubernetes, OpenShift, Cloud deployment and management, Microservices architecture, Serverless computing, IBM Code Engine.
+* **AI Development:** AI model development with Python and Flask.
+* **Other Skills:** External APIs, Task queuing, Containerization (Docker), Kubernetes, OpenShift, Cloud deployment and management, Microservices architecture, Serverless computing, IBM Code Engine.
 
 ## Projects
 
