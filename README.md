@@ -43,6 +43,7 @@ Passionate web developer specializing in Django, with a knack for creating innov
 * **Machine Learning**
   * Supervised Machine Learning: Regression and Classification
   * Advanced Learning Algorithms
+  * Unsupervised Learning, Recommenders, Reinforcement Learning
 
 ## Skills
 
