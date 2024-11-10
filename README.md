@@ -4,7 +4,7 @@
 
 ## Summary
 
-Passionate web developer specializing in Django, with a knack for creating innovative and user-friendly applications. Skilled in machine learning, eager to tackle challenging projects and advance expertise in web development, data science, and AI.
+Passionate web developer specializing in Next.js and Django, with a knack for creating innovative and user-friendly applications. Skilled in machine learning, eager to tackle challenging projects and advance expertise in web development, data science, and AI.
 
 ## Education
 
