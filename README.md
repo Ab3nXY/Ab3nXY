@@ -47,23 +47,25 @@ Passionate web developer specializing in Django, with a knack for creating innov
 
 ## Skills
 
-* **Front-End Development:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS.
-* **Back-End Development:** Django.
+* **Front-End Development:** Next.js, HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS.
+* **Back-End Development:** Django, Strapi.
 * **Cloud Computing:** Cloud concepts.
 * **Machine Learning:**
   * Supervised Machine Learning: Regression and Classification
   * Advanced Learning Algorithms: TensorFlow, decision tree (random forests and XGBoost)
   * Unsupervised Learning: Recommenders, Reinforcement Learning
 * **AI Development:** AI model development with Python and Flask.
-* **Other Skills:** External APIs, Task queuing, Containerization (Docker), Kubernetes, OpenShift, Cloud deployment and management, Microservices architecture, Serverless computing, IBM Code Engine.
+* **Other Skills:** Netlify, External APIs, Task queuing, Containerization (Docker), Kubernetes, OpenShift, Cloud deployment and management, Microservices architecture, Serverless computing, IBM Code Engine.
 
 ## Projects
-
+* **Delight-AFH:** A web application designed to manage and showcase assisted living facilities. It includes features for staff , services, facility booking, and communication between staff and families.
+* **Compassionate1stCare-AFH:** A healthcare management web application focused on assisted living services. Features include services, appointment scheduling, and resident intake form.
+* **EthioForex:** A currency exchange platform that provides real-time exchange rates, historical data, and fuel price data. It integrates various banks daily exchange rate to deliver accurate data for users to make informed currency trading decisions.
 * **EthioTalentX:** A Django-based web application featuring user management, responsive interfaces, profile creation, skill showcasing, talent search, and real-time chat functionality using Django Channels. Authentication is handled through Django Allauth.
 * **Blango:** A blog writing app with REST API and IBM Watson for sentiment analysis, offering post creation, editing, deletion, category management, search, commenting, and social media integration.
-* **Back-End Development with Node.js and Express:** Built a RESTful API for data retrieval and manipulation
-* **Full Stack Cloud Development Capstone Project:** Designed and developed a full-stack cloud application using various technologies
+* **Full Stack Cloud Development Capstone Project:** Designed and developed a full-stack cloud application using various technologies.
 * **Back-End Application Development Capstone Project:** Developed and deployed microservices using Flask, Django, NoSQL, and MongoDB. Utilized Kubernetes, OpenShift, and IBM Code Engine for scalable, independent deployment. This project showcases skills in integrating and managing back-end technologies.
+
 
 ## Contact
 
