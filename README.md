@@ -6,6 +6,7 @@
 
 **Phone:** 0942877371
 
+**Website:** Abenxy.xyz
 
 ---
 
@@ -123,7 +124,6 @@ Assisted living facility management apps with staff and service management, appo
 Blog platform with IBM Watson sentiment analysis, post CRUD, category filtering, social sharing, and commenting features.
 
 **Capstone Projects**
+***Full Stack Cloud App:*** Built with Django, Flask, MongoDB, deployed with Docker/Kubernetes/IBM Code Engine.
 
-**Full Stack Cloud App:** Built with Django, Flask, MongoDB, deployed with Docker/Kubernetes/IBM Code Engine.
-
-**Back-End Microservices:** Designed scalable services for data management with cloud-native deployment strategies.
+***Back-End Microservices:*** Designe scalable services for data management with cloud-native deployment strategies.
