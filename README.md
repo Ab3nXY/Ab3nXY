@@ -1,8 +1,8 @@
-#Abenezer Shiferaw#
+## Abenezer Shiferaw ##
 
-**Location: **Addis Ababa, Ethiopia
-**Email: **Abenexy@gmail.com
-**Phone: **0942877371
+**Location:** Addis Ababa, Ethiopia
+**Email:** Abenexy@gmail.com
+**Phone:** 0942877371
 
 
 ---
