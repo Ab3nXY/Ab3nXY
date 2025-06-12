@@ -1,20 +1,22 @@
 ## Abenezer Shiferaw ##
 
 **Location:** Addis Ababa, Ethiopia
+
 **Email:** Abenexy@gmail.com
+
 **Phone:** 0942877371
 
 
 ---
 
-#Summary#
+## Summary ##
 
 Passionate full-stack web developer specializing in Next.js and Django, with strong expertise in building scalable, user-focused applications. Proficient in modern JavaScript frameworks, cloud deployment, and AI integration. Eager to contribute to challenging projects in web development, automation, and applied AI.
 
 
 ---
 
-#Education#
+## Education ##
 
 **M.Sc. in Geotechnical Engineering**
 Addis Ababa Institute of Technology, Addis Ababa – Dec 2020
@@ -26,78 +28,78 @@ Addis Ababa Institute of Technology, Addis Ababa – Jul 2013
 
 ---
 
-#Certifications#
+## Certifications ##
 
 **IBM Full Stack Software Developer**
 
-Front-End Development with React
+-Front-End Development with React
 
-Back-End with Node.js and Express
+-Back-End with Node.js and Express
 
-Git, GitHub, Cloud, Containers (Docker, Kubernetes)
+-Git, GitHub, Cloud, Containers (Docker, Kubernetes)
 
-Python for Data Science and AI (Flask)
+-Python for Data Science and AI (Flask)
 
-Microservices and Serverless with IBM Code Engine
+-Microservices and Serverless with IBM Code Engine
 
 
 **Django for Everybody Specialization**
 
-Django Web Apps, Features, Libraries
+-Django Web Apps, Features, Libraries
 
-JavaScript, JSON, and jQuery Integration
+-JavaScript, JSON, and jQuery Integration
 
 
 **Advanced Django and DRF**
 
-API Integration, Task Queuing, DRF Advanced Concepts
+-API Integration, Task Queuing, DRF Advanced Concepts
 
 
 **Machine Learning**
 
-Regression, Classification, Recommenders, Reinforcement Learning
+-Regression, Classification, Recommenders, Reinforcement Learning
 
 
 
 
 ---
 
-#Skills#
+## Skills ##
 
 **Frontend:**
 
-JavaScript, TypeScript, React, Next.js, Redux Toolkit, React Query
+-JavaScript, TypeScript, React, Next.js, Redux Toolkit, React Query
 
-Tailwind CSS, ShadCN/UI, Bootstrap, HTML5, CSS3
+-Tailwind CSS, ShadCN/UI, Bootstrap, HTML5, CSS3
 
 
 **Backend:**
 
-Python (Django, Flask), Node.js (Express), MongoDB, PostgreSQL
+-Python (Django, Flask), Node.js (Express), MongoDB, PostgreSQL
 
 
 **AI & Automation:**
 
-OpenAI API, LLMs, Sentiment Analysis, AI Chatbots
+-OpenAI API, LLMs, Sentiment Analysis, AI Chatbots
 
-Cursor AI for dev workflow enhancement
+-Cursor AI for dev workflow enhancement
 
 
 **DevOps & Cloud:**
 
-Google Cloud Platform (GCP), Docker, Kubernetes, Netlify, GitHub
+-Google Cloud Platform (GCP), Docker, Kubernetes, Netlify, GitHub
 
 
 **Other Tools & Libraries:**
 
-React Hook Form, React Table, React Select, DayJS, Resend
+-React Hook Form, React Table, React Select, DayJS, Resend
 
 
 
 
 ---
 
-#Projects#
+## Projects ##
 
 **Magnoli POS**
 POS system for dry-cleaning business built with Vite, React, TypeScript, TailwindCSS, ShadCN, Redux Toolkit, React Query, React Router, React Hook Form, React Select, React Table, Toastify, and DayJS.
